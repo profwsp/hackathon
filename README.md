@@ -28,9 +28,9 @@ Prêmio coletivo: Botton personalizado
 
 1.1 - O arquivo HTML deve incluir:
 
-Um <title> com o nome do projeto.
+Um `<title>` com o nome do projeto.
 
-A identificação dos integrantes do grupo usando a tag "<meta name="author" content="Nome do Integrante">".
+A identificação dos integrantes do grupo usando a tag `<meta name="author" content="Nome do Integrante">`.
 
 2 - Os grupos devem ser formados por 4 pessoas, com exceções:  
 2.1 - Se uma fileira tiver apenas um integrante, ele pode se juntar a outro grupo.  
