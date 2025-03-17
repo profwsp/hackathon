@@ -1,8 +1,8 @@
 # 1° Hackathon - Ferramenta Útil para o Dia a Dia - Senai Suzano
 
-[Como enviar](#como-enviar-seu-projeto)  
+# [Como enviar meu projeto](#como-enviar-seu-projeto)  
 
-
+# Programação
 Data: 
 16 de abril de 2025 (quarta-feira)
 
