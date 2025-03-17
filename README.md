@@ -30,9 +30,9 @@ Prêmio coletivo: Botton personalizado
 
 Um <title> com o nome do projeto.
 
-A identificação dos integrantes do grupo usando a tag <meta name="author" content="Nome do Integrante">.
+A identificação dos integrantes do grupo usando a tag "<meta name="author" content="Nome do Integrante">".
 
-2 - Os grupos devem ser formados por 4 pessoas, com exceções:
+2 - Os grupos devem ser formados por 4 pessoas, com exceções:  
 2.1 - Se uma fileira tiver apenas um integrante, ele pode se juntar a outro grupo.  
 2.1.1 - Nesse caso, os grupos poderão ter entre 3 e 5 integrantes, mas apenas se não houver outra forma de completar um grupo com 4 membros.  
 3 - Pitch de apresentação do trabalho terá uma duração mínima de 4 e máxima de 6 minutos, pode ser desenvolvido no Canva ou PowerPoint, é importante que seja conciso, direto e focado no tema escolhido.  
@@ -48,7 +48,8 @@ No mínimo 30% do trabalho deve ser feito de forma original.
 Crie uma Ferramenta Útil para o Dia a Dia  
 
 ### Objetivo: 
-Cada equipe deve escolher uma ferramenta da lista abaixo ou escolher uma ideia original e desenvolvê-la como uma aplicação web funcional, interativa e estilizada.   Os projetos devem resolver um problema cotidiano ou oferecer uma solução prática, com espaço para os alunos adicionarem funcionalidades extras e detalhes visuais.
+Cada equipe deve escolher uma ferramenta da lista abaixo ou escolher uma ideia original e desenvolvê-la como uma aplicação web funcional, interativa e estilizada.   
+Os projetos devem resolver um problema cotidiano ou oferecer uma solução prática, com espaço para os alunos adicionarem funcionalidades extras e detalhes visuais.
 
 
 
