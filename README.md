@@ -1,5 +1,8 @@
 # 1° Hackathon - Ferramenta Útil para o Dia a Dia - Senai Suzano
 
+[Como enviar](#como-enviar-seu-projeto)  
+
+
 Data: 
 16 de abril de 2025 (quarta-feira)
 
@@ -103,3 +106,55 @@ Marcar tarefas como concluídas
 5 pontos: Explicação clara do propósito e uso da ferramenta.  
 5 pontos: Demonstração funcional e envolvente.  
 ### Pontuação Total: 100 pontos
+
+# Como Enviar Seu Projeto  
+
+Siga estas etapas para enviar seu projeto para o 1º Hackathon SENAI sUZANO.  
+
+#### 1. Faça um Fork do Repositório  
+Vá para a parte superior direita deste repositório e clique no botão **Fork**.  
+Isso criará uma cópia do repositório na sua conta do GitHub.  
+
+#### 2. Clone Seu Fork Localmente  
+Depois de fazer o fork do repositório, clone-o para sua máquina local:  
+
+```sh
+git clone https://github.com/profwsp/hackathon.git
+cd hackathon-senai-suzano
+```  
+
+#### 3. Adicione Seu Projeto  
+No repositório clonado, navegue até o diretório `envios/`.  
+Adicione seu arquivo HTML dentro deste diretório e nomeie-o de forma apropriada (por exemplo, `seu-usuario.html` ou `seu-projeto.html`).  
+
+**Importante:** Certifique-se de que seu arquivo HTML contenha as seguintes tags:  
+
+- Uma tag `<title>` com o título do seu projeto:  
+  ```html
+  <title>Seu Título do Projeto</title>
+  ```
+- Uma tag `<meta name="author">` com seu nome ou nomes, caso esteja trabalhando em equipe:  
+  ```html
+  <meta name="author" content="Seu Nome" />
+  ```
+- Se seu projeto utilizar CSS ou JavaScript, inclua-os diretamente dentro do arquivo HTML, utilizando as tags `<style>` para CSS e `<script>` para JavaScript. Isso garante que tudo esteja auto-contido e fácil de exibir.  
+
+#### 4. Confirme Suas Alterações  
+Após adicionar seu projeto, confirme suas alterações com os seguintes comandos:  
+
+```sh
+git add envios/seu-usuario.html
+git commit -m "Adicionar meu projeto"
+git push origin main
+```  
+
+#### 5. Crie um Pull Request  
+- Vá até o repositório original no GitHub.  
+- Clique na aba **Pull Requests**.  
+- Clique no botão **New Pull Request**.  
+- Selecione seu fork no menu suspenso do repositório base.  
+- Clique em **Create Pull Request**.  
+
+Após a aprovação do seu Pull Request, seu projeto estará disponível no site do hackathon!  
+
+Estamos ansiosos para ver seus projetos criativos! Feliz programação! 🚀
