@@ -1,4 +1,3 @@
-# hackthon
 # 1° Hackathon - Ferramenta Útil para o Dia a Dia - Senai Suzano
 
 Data: 
